@@ -1,2 +1,2 @@
-﻿Esto es una prueba
+﻿Esto es prueba
 Añadido desde el branch edit1
